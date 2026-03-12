@@ -12,7 +12,7 @@ int main() {
     
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
-    // utilizando a função scanf para capturar as entradas.
+    // utilizando a função scanf para capturar 
     // utilize o código do primeiro desafio
 
     // Exemplo:
